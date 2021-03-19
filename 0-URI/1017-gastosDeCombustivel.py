@@ -1,5 +1,5 @@
-tempoGasto = 10
-velocidadeMedia = 85
+tempoGasto = float(input())
+velocidadeMedia = float(input())
 
 distancia = tempoGasto*velocidadeMedia
 
