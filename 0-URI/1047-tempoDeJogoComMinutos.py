@@ -1,5 +1,3 @@
-
-
 def t(hora1, minuto1, horaFim, minutoFim): 
     
     EmMinutos = 24 * 60 - (hora1 * 60 + minuto1)
